@@ -1,5 +1,5 @@
 # One player is Matthew, rest are the band. The band knows the location, Matthew doesn't.
-# Players ask each other questions to figure out who is Matthew. If Matthew is found in under 5 minutes, the others win; otherwise Matthew wins.
+# Players ask each other questions to figure out who is Matthew. If Matthew is found in under 5 minutes, the band win; otherwise Matthew wins.
 # Run script to assign roles, see your role in private, then hide it and pass device to next player.
 import os, random, getpass
 player_count = 5
